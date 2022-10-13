@@ -15,7 +15,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.wagestream.com
   publish: true
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/wagestream/statuspage/master/assets/logo-horizontal-purple.svg
   name: Wagestream Status
   introTitle: "Wagestream Platform Status"
   introMessage: This site is used to monitor and share the status of the Wagestream Global Platform.
