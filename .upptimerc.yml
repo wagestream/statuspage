@@ -3,12 +3,18 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Wagestream Public Website
-    url: https://wagestream.com
+  - name: Wagestream UK Public Website
+    url: https://wagestream.com/en/
+  - name: Wagestream US Public Website
+    url: https://wagestream.com/us/
+  - name: Wagestream AU Public Website
+    url: https://wagestream.com/au/
+  - name: Wagestream ES Public Website
+    url: https://wagestream.com/es/
   - name: Wagestream UK API
-    url: https://api.wagestream.xyz/
+    url: https://api.wagestream.xyz/api/v1/lb/ok
   - name: Wagestream US API
-    url: https://api.wagestream.us/
+    url: https://api.wagestream.us/api/v1/lb/ok
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
