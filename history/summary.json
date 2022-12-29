@@ -4,11 +4,11 @@
     "url": "https://wagestream.com/en/",
     "icon": "https://icons.duckduckgo.com/ip3/wagestream.com.ico",
     "slug": "wagestream-uk-public-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "94.56%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "94.34%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.93%",
     "time": 941,
     "timeDay": 862,
@@ -16,7 +16,7 @@
     "timeMonth": 945,
     "timeYear": 941,
     "dailyMinutesDown": {
-      "2022-12-29": 77
+      "2022-12-29": 80
     }
   },
   {
@@ -24,11 +24,11 @@
     "url": "https://wagestream.com/us/",
     "icon": "https://icons.duckduckgo.com/ip3/wagestream.com.ico",
     "slug": "wagestream-us-public-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "95.69%",
-    "uptimeWeek": "99.38%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "95.58%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.94%",
     "time": 826,
     "timeDay": 654,
@@ -36,7 +36,7 @@
     "timeMonth": 838,
     "timeYear": 826,
     "dailyMinutesDown": {
-      "2022-12-29": 64
+      "2022-12-29": 66
     }
   },
   {
@@ -66,7 +66,7 @@
     "url": "https://wagestream.com/es/",
     "icon": "https://icons.duckduckgo.com/ip3/wagestream.com.ico",
     "slug": "wagestream-es-public-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "96.83%",
     "uptimeWeek": "99.55%",
