@@ -4,19 +4,19 @@
     "url": "https://wagestream.com/en/",
     "icon": "https://icons.duckduckgo.com/ip3/wagestream.com.ico",
     "slug": "wagestream-uk-public-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 955,
-    "timeDay": 1024,
-    "timeWeek": 1038,
-    "timeMonth": 983,
-    "timeYear": 955,
+    "time": 951,
+    "timeDay": 909,
+    "timeWeek": 999,
+    "timeMonth": 973,
+    "timeYear": 951,
     "dailyMinutesDown": {
-      "2022-12-29": 9
+      "2022-12-29": 13
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://wagestream.com/us/",
     "icon": "https://icons.duckduckgo.com/ip3/wagestream.com.ico",
     "slug": "wagestream-us-public-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 844,
-    "timeDay": 520,
-    "timeWeek": 854,
-    "timeMonth": 889,
-    "timeYear": 844,
+    "time": 842,
+    "timeDay": 585,
+    "timeWeek": 839,
+    "timeMonth": 884,
+    "timeYear": 842,
     "dailyMinutesDown": {
-      "2022-12-29": 7
+      "2022-12-29": 11
     }
   },
   {
@@ -66,19 +66,19 @@
     "url": "https://wagestream.com/es/",
     "icon": "https://icons.duckduckgo.com/ip3/wagestream.com.ico",
     "slug": "wagestream-es-public-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
-    "time": 733,
-    "timeDay": 935,
-    "timeWeek": 861,
-    "timeMonth": 792,
-    "timeYear": 733,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 732,
+    "timeDay": 845,
+    "timeWeek": 839,
+    "timeMonth": 788,
+    "timeYear": 732,
     "dailyMinutesDown": {
-      "2022-12-29": 3
+      "2022-12-29": 7
     }
   },
   {
