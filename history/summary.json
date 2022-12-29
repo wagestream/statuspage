@@ -4,19 +4,19 @@
     "url": "https://wagestream.com/en/",
     "icon": "https://icons.duckduckgo.com/ip3/wagestream.com.ico",
     "slug": "wagestream-uk-public-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.84%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 951,
-    "timeDay": 909,
-    "timeWeek": 999,
-    "timeMonth": 973,
-    "timeYear": 951,
+    "time": 949,
+    "timeDay": 873,
+    "timeWeek": 975,
+    "timeMonth": 967,
+    "timeYear": 949,
     "dailyMinutesDown": {
-      "2022-12-29": 16
+      "2022-12-29": 24
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://wagestream.com/us/",
     "icon": "https://icons.duckduckgo.com/ip3/wagestream.com.ico",
     "slug": "wagestream-us-public-website",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 842,
-    "timeDay": 585,
-    "timeWeek": 839,
-    "timeMonth": 884,
-    "timeYear": 842,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.60%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 836,
+    "timeDay": 529,
+    "timeWeek": 791,
+    "timeMonth": 868,
+    "timeYear": 836,
     "dailyMinutesDown": {
-      "2022-12-29": 13
+      "2022-12-29": 21
     }
   },
   {
@@ -66,19 +66,19 @@
     "url": "https://wagestream.com/es/",
     "icon": "https://icons.duckduckgo.com/ip3/wagestream.com.ico",
     "slug": "wagestream-es-public-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 732,
-    "timeDay": 845,
-    "timeWeek": 839,
-    "timeMonth": 788,
+    "timeDay": 823,
+    "timeWeek": 831,
+    "timeMonth": 787,
     "timeYear": 732,
     "dailyMinutesDown": {
-      "2022-12-29": 7
+      "2022-12-29": 15
     }
   },
   {
