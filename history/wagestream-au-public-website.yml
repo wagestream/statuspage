@@ -1,7 +1,7 @@
 url: https://wagestream.com/au/
-status: down
-code: 503
-responseTime: 15335
-lastUpdated: 2023-05-14T14:19:18.927Z
+status: up
+code: 200
+responseTime: 136
+lastUpdated: 2023-05-14T14:26:17.216Z
 startTime: Thu Oct 13 2022 16:16:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
