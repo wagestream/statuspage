@@ -7,8 +7,6 @@ sites:
     url: https://wagestream.com/en/
   - name: Wagestream US Public Website
     url: https://wagestream.com/us/
-  - name: Wagestream AU Public Website
-    url: https://wagestream.com/au/
   - name: Wagestream ES Public Website
     url: https://wagestream.com/es/
   - name: Wagestream UK API
