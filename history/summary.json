@@ -68,9 +68,9 @@
     "url": "https://api.wagestream.xyz/api/v1/lb/ok",
     "icon": "https://icons.duckduckgo.com/ip3/api.wagestream.xyz.ico",
     "slug": "wagestream-uk-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -80,6 +80,7 @@
     "timeMonth": 625,
     "timeYear": 596,
     "dailyMinutesDown": {
+      "2023-09-25": 0,
       "2023-03-13": 11,
       "2023-01-05": 9
     }
