@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 619,
-    "timeDay": 301,
-    "timeWeek": 437,
-    "timeMonth": 392,
-    "timeYear": 524,
+    "time": 618,
+    "timeDay": 274,
+    "timeWeek": 367,
+    "timeMonth": 393,
+    "timeYear": 523,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 684,
-    "timeDay": 244,
-    "timeWeek": 501,
-    "timeMonth": 410,
-    "timeYear": 653,
+    "time": 683,
+    "timeDay": 248,
+    "timeWeek": 329,
+    "timeMonth": 409,
+    "timeYear": 651,
     "dailyMinutesDown": {
       "2023-09-17": 328
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 515,
-    "timeDay": 76,
-    "timeWeek": 212,
-    "timeMonth": 288,
-    "timeYear": 452,
+    "time": 514,
+    "timeDay": 161,
+    "timeWeek": 139,
+    "timeMonth": 287,
+    "timeYear": 450,
     "dailyMinutesDown": {}
   },
   {
@@ -61,19 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.wagestream.xyz.ico",
     "slug": "wagestream-uk-api",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 578,
-    "timeDay": 442,
-    "timeWeek": 633,
-    "timeMonth": 578,
+    "timeDay": 680,
+    "timeWeek": 597,
+    "timeMonth": 584,
     "timeYear": 584,
     "dailyMinutesDown": {
-      "2023-12-11": 32,
-      "2023-03-13": 11
+      "2023-12-11": 32
     }
   },
   {
@@ -88,12 +87,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 296,
-    "timeDay": 392,
-    "timeWeek": 250,
-    "timeMonth": 278,
-    "timeYear": 293,
+    "timeDay": 361,
+    "timeWeek": 285,
+    "timeMonth": 281,
+    "timeYear": 294,
     "dailyMinutesDown": {
-      "2023-07-26": 23
+      "2023-07-26": 16
     }
   }
 ]
