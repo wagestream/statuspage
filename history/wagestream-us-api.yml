@@ -1,7 +1,7 @@
 url: https://api.wagestream.us/api/v1/lb/ok
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-16T04:34:18.338Z
+status: up
+code: 200
+responseTime: 129
+lastUpdated: 2024-09-16T04:42:38.757Z
 startTime: 2022-10-13T15:01:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
