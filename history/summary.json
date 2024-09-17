@@ -6,33 +6,31 @@
     "slug": "wagestream-uk-public-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 377,
     "timeDay": 249,
     "timeWeek": 264,
     "timeMonth": 264,
     "timeYear": 366,
-    "dailyMinutesDown": {
-      "2024-09-17": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wagestream US Public Website",
     "url": "https://wagestream.com/us/",
     "icon": "https://icons.duckduckgo.com/ip3/wagestream.com.ico",
     "slug": "wagestream-us-public-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.44%",
+    "uptimeDay": "99.47%",
     "uptimeWeek": "99.92%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.94%",
-    "time": 438,
-    "timeDay": 191,
-    "timeWeek": 198,
+    "time": 437,
+    "timeDay": 189,
+    "timeWeek": 197,
     "timeMonth": 179,
     "timeYear": 330,
     "dailyMinutesDown": {
@@ -46,18 +44,16 @@
     "slug": "wagestream-es-public-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 269,
     "timeDay": 101,
     "timeWeek": 106,
     "timeMonth": 111,
     "timeYear": 168,
-    "dailyMinutesDown": {
-      "2024-09-17": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wagestream UK API",
