@@ -4,19 +4,19 @@
     "url": "https://wagestream.com/en/",
     "icon": "https://icons.duckduckgo.com/ip3/wagestream.com.ico",
     "slug": "wagestream-uk-public-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 377,
-    "timeDay": 241,
-    "timeWeek": 264,
-    "timeMonth": 263,
-    "timeYear": 367,
+    "timeDay": 239,
+    "timeWeek": 262,
+    "timeMonth": 262,
+    "timeYear": 366,
     "dailyMinutesDown": {
-      "2024-09-17": 0
+      "2024-09-17": 8
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://wagestream.com/us/",
     "icon": "https://icons.duckduckgo.com/ip3/wagestream.com.ico",
     "slug": "wagestream-us-public-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.94%",
-    "time": 444,
-    "timeDay": 182,
-    "timeWeek": 196,
-    "timeMonth": 177,
+    "time": 442,
+    "timeDay": 195,
+    "timeWeek": 200,
+    "timeMonth": 179,
     "timeYear": 331,
     "dailyMinutesDown": {
-      "2024-09-17": 0
+      "2024-09-17": 8
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://wagestream.com/es/",
     "icon": "https://icons.duckduckgo.com/ip3/wagestream.com.ico",
     "slug": "wagestream-es-public-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 273,
-    "timeDay": 101,
-    "timeWeek": 107,
-    "timeMonth": 112,
-    "timeYear": 169,
+    "time": 271,
+    "timeDay": 100,
+    "timeWeek": 106,
+    "timeMonth": 111,
+    "timeYear": 168,
     "dailyMinutesDown": {
-      "2024-09-17": 0
+      "2024-09-17": 8
     }
   },
   {
