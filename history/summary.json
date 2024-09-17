@@ -4,19 +4,19 @@
     "url": "https://wagestream.com/en/",
     "icon": "https://icons.duckduckgo.com/ip3/wagestream.com.ico",
     "slug": "wagestream-uk-public-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 377,
-    "timeDay": 244,
-    "timeWeek": 266,
-    "timeMonth": 264,
+    "timeDay": 241,
+    "timeWeek": 264,
+    "timeMonth": 263,
     "timeYear": 367,
     "dailyMinutesDown": {
-      "2024-09-17": 11
+      "2024-09-17": 0
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://wagestream.com/us/",
     "icon": "https://icons.duckduckgo.com/ip3/wagestream.com.ico",
     "slug": "wagestream-us-public-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 446,
-    "timeDay": 197,
-    "timeWeek": 200,
-    "timeMonth": 179,
-    "timeYear": 332,
+    "time": 444,
+    "timeDay": 182,
+    "timeWeek": 196,
+    "timeMonth": 177,
+    "timeYear": 331,
     "dailyMinutesDown": {
-      "2024-09-17": 11
+      "2024-09-17": 0
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://wagestream.com/es/",
     "icon": "https://icons.duckduckgo.com/ip3/wagestream.com.ico",
     "slug": "wagestream-es-public-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 274,
-    "timeDay": 104,
-    "timeWeek": 108,
+    "time": 273,
+    "timeDay": 101,
+    "timeWeek": 107,
     "timeMonth": 112,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2024-09-17": 11
+      "2024-09-17": 0
     }
   },
   {
@@ -91,7 +91,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 296,
-    "timeDay": 161,
+    "timeDay": 193,
     "timeWeek": 321,
     "timeMonth": 384,
     "timeYear": 294,
