@@ -4,19 +4,19 @@
     "url": "https://wagestream.com/en/",
     "icon": "https://icons.duckduckgo.com/ip3/wagestream.com.ico",
     "slug": "wagestream-uk-public-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 377,
-    "timeDay": 245,
-    "timeWeek": 267,
-    "timeMonth": 265,
+    "timeDay": 244,
+    "timeWeek": 266,
+    "timeMonth": 264,
     "timeYear": 367,
     "dailyMinutesDown": {
-      "2024-09-17": 0
+      "2024-09-17": 11
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://wagestream.com/us/",
     "icon": "https://icons.duckduckgo.com/ip3/wagestream.com.ico",
     "slug": "wagestream-us-public-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.94%",
-    "time": 447,
-    "timeDay": 194,
+    "time": 446,
+    "timeDay": 197,
     "timeWeek": 200,
-    "timeMonth": 178,
+    "timeMonth": 179,
     "timeYear": 332,
     "dailyMinutesDown": {
-      "2024-09-17": 0
+      "2024-09-17": 11
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://wagestream.com/es/",
     "icon": "https://icons.duckduckgo.com/ip3/wagestream.com.ico",
     "slug": "wagestream-es-public-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 276,
+    "time": 274,
     "timeDay": 104,
     "timeWeek": 108,
     "timeMonth": 112,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2024-09-17": 0
+      "2024-09-17": 11
     }
   },
   {
