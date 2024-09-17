@@ -4,54 +4,60 @@
     "url": "https://wagestream.com/en/",
     "icon": "https://icons.duckduckgo.com/ip3/wagestream.com.ico",
     "slug": "wagestream-uk-public-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 378,
-    "timeDay": 294,
-    "timeWeek": 278,
-    "timeMonth": 269,
-    "timeYear": 369,
-    "dailyMinutesDown": {}
+    "timeDay": 274,
+    "timeWeek": 275,
+    "timeMonth": 268,
+    "timeYear": 368,
+    "dailyMinutesDown": {
+      "2024-09-17": 0
+    }
   },
   {
     "name": "Wagestream US Public Website",
     "url": "https://wagestream.com/us/",
     "icon": "https://icons.duckduckgo.com/ip3/wagestream.com.ico",
     "slug": "wagestream-us-public-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 451,
-    "timeDay": 255,
-    "timeWeek": 209,
-    "timeMonth": 181,
-    "timeYear": 334,
-    "dailyMinutesDown": {}
+    "time": 450,
+    "timeDay": 213,
+    "timeWeek": 204,
+    "timeMonth": 179,
+    "timeYear": 333,
+    "dailyMinutesDown": {
+      "2024-09-17": 0
+    }
   },
   {
     "name": "Wagestream ES Public Website",
     "url": "https://wagestream.com/es/",
     "icon": "https://icons.duckduckgo.com/ip3/wagestream.com.ico",
     "slug": "wagestream-es-public-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 279,
-    "timeDay": 117,
-    "timeWeek": 111,
-    "timeMonth": 114,
-    "timeYear": 170,
-    "dailyMinutesDown": {}
+    "time": 278,
+    "timeDay": 108,
+    "timeWeek": 110,
+    "timeMonth": 113,
+    "timeYear": 169,
+    "dailyMinutesDown": {
+      "2024-09-17": 0
+    }
   },
   {
     "name": "Wagestream UK API",
