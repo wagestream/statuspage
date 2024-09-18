@@ -4,19 +4,19 @@
     "url": "https://wagestream.com/en/",
     "icon": "https://icons.duckduckgo.com/ip3/wagestream.com.ico",
     "slug": "wagestream-uk-public-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 376,
-    "timeDay": 267,
+    "timeDay": 266,
     "timeWeek": 258,
     "timeMonth": 265,
-    "timeYear": 364,
+    "timeYear": 363,
     "dailyMinutesDown": {
-      "2024-09-18": 0
+      "2024-09-18": 8
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://wagestream.com/us/",
     "icon": "https://icons.duckduckgo.com/ip3/wagestream.com.ico",
     "slug": "wagestream-us-public-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 429,
-    "timeDay": 188,
-    "timeWeek": 193,
+    "timeDay": 185,
+    "timeWeek": 192,
     "timeMonth": 181,
     "timeYear": 322,
     "dailyMinutesDown": {
-      "2024-09-18": 0
+      "2024-09-18": 8
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://wagestream.com/es/",
     "icon": "https://icons.duckduckgo.com/ip3/wagestream.com.ico",
     "slug": "wagestream-es-public-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 260,
-    "timeDay": 103,
-    "timeWeek": 103,
-    "timeMonth": 111,
+    "time": 258,
+    "timeDay": 101,
+    "timeWeek": 102,
+    "timeMonth": 110,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2024-09-18": 0
+      "2024-09-18": 8
     }
   },
   {
