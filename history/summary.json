@@ -4,19 +4,19 @@
     "url": "https://wagestream.com/en/",
     "icon": "https://icons.duckduckgo.com/ip3/wagestream.com.ico",
     "slug": "wagestream-uk-public-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.10%",
-    "uptimeWeek": "99.73%",
+    "uptimeDay": "98.18%",
+    "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
-    "time": 463,
-    "timeDay": 403,
-    "timeWeek": 562,
-    "timeMonth": 426,
+    "uptimeYear": "100.00%",
+    "time": 462,
+    "timeDay": 389,
+    "timeWeek": 555,
+    "timeMonth": 428,
     "timeYear": 388,
     "dailyMinutesDown": {
-      "2024-09-19": 27
+      "2024-09-19": 26
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://wagestream.com/us/",
     "icon": "https://icons.duckduckgo.com/ip3/wagestream.com.ico",
     "slug": "wagestream-us-public-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.09%",
-    "uptimeWeek": "99.73%",
+    "uptimeDay": "98.18%",
+    "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 509,
-    "timeDay": 215,
-    "timeWeek": 530,
+    "timeDay": 211,
+    "timeWeek": 522,
     "timeMonth": 379,
-    "timeYear": 351,
+    "timeYear": 350,
     "dailyMinutesDown": {
-      "2024-09-19": 27
+      "2024-09-19": 26
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://wagestream.com/es/",
     "icon": "https://icons.duckduckgo.com/ip3/wagestream.com.ico",
     "slug": "wagestream-es-public-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.09%",
-    "uptimeWeek": "99.73%",
+    "uptimeDay": "98.18%",
+    "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
-    "time": 345,
-    "timeDay": 128,
-    "timeWeek": 308,
+    "uptimeYear": "100.00%",
+    "time": 344,
+    "timeDay": 123,
+    "timeWeek": 302,
     "timeMonth": 221,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2024-09-19": 27
+      "2024-09-19": 26
     }
   },
   {
@@ -73,7 +73,7 @@
     "time": 595,
     "timeDay": 692,
     "timeWeek": 567,
-    "timeMonth": 651,
+    "timeMonth": 657,
     "timeYear": 595,
     "dailyMinutesDown": {
       "2023-12-11": 32
@@ -93,7 +93,7 @@
     "time": 297,
     "timeDay": 154,
     "timeWeek": 313,
-    "timeMonth": 383,
+    "timeMonth": 384,
     "timeYear": 295,
     "dailyMinutesDown": {}
   }
