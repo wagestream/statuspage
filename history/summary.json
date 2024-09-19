@@ -6,18 +6,16 @@
     "slug": "wagestream-uk-public-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 394,
-    "timeDay": 1634,
-    "timeWeek": 538,
-    "timeMonth": 425,
-    "timeYear": 387,
-    "dailyMinutesDown": {
-      "2024-09-18": 8
-    }
+    "timeDay": 1694,
+    "timeWeek": 586,
+    "timeMonth": 429,
+    "timeYear": 388,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wagestream US Public Website",
@@ -26,18 +24,16 @@
     "slug": "wagestream-us-public-website",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 517,
-    "timeDay": 2184,
-    "timeWeek": 534,
-    "timeMonth": 392,
-    "timeYear": 356,
-    "dailyMinutesDown": {
-      "2024-09-18": 8
-    }
+    "time": 516,
+    "timeDay": 2214,
+    "timeWeek": 580,
+    "timeMonth": 396,
+    "timeYear": 354,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wagestream ES Public Website",
@@ -46,18 +42,16 @@
     "slug": "wagestream-es-public-website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 267,
-    "timeDay": 1139,
-    "timeWeek": 310,
-    "timeMonth": 230,
-    "timeYear": 185,
-    "dailyMinutesDown": {
-      "2024-09-18": 8
-    }
+    "time": 265,
+    "timeDay": 1152,
+    "timeWeek": 341,
+    "timeMonth": 232,
+    "timeYear": 184,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wagestream UK API",
@@ -71,10 +65,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 594,
-    "timeDay": 426,
-    "timeWeek": 489,
-    "timeMonth": 641,
-    "timeYear": 594,
+    "timeDay": 768,
+    "timeWeek": 532,
+    "timeMonth": 650,
+    "timeYear": 595,
     "dailyMinutesDown": {
       "2023-12-11": 32
     }
@@ -90,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 296,
-    "timeDay": 409,
-    "timeWeek": 348,
-    "timeMonth": 388,
-    "timeYear": 294,
+    "time": 297,
+    "timeDay": 454,
+    "timeWeek": 347,
+    "timeMonth": 391,
+    "timeYear": 295,
     "dailyMinutesDown": {}
   }
 ]
