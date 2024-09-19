@@ -6,17 +6,17 @@
     "slug": "wagestream-uk-public-website",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.32%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
-    "time": 394,
-    "timeDay": 400,
-    "timeWeek": 568,
-    "timeMonth": 427,
+    "time": 465,
+    "timeDay": 403,
+    "timeWeek": 559,
+    "timeMonth": 426,
     "timeYear": 388,
     "dailyMinutesDown": {
-      "2024-09-19": 16
+      "2024-09-19": 24
     }
   },
   {
@@ -26,17 +26,17 @@
     "slug": "wagestream-us-public-website",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.31%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
-    "time": 512,
-    "timeDay": 198,
-    "timeWeek": 549,
-    "timeMonth": 387,
-    "timeYear": 353,
+    "time": 510,
+    "timeDay": 212,
+    "timeWeek": 535,
+    "timeMonth": 383,
+    "timeYear": 352,
     "dailyMinutesDown": {
-      "2024-09-19": 16
+      "2024-09-19": 24
     }
   },
   {
@@ -46,17 +46,17 @@
     "slug": "wagestream-es-public-website",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.31%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
-    "time": 261,
-    "timeDay": 124,
-    "timeWeek": 320,
-    "timeMonth": 226,
-    "timeYear": 184,
+    "time": 346,
+    "timeDay": 130,
+    "timeWeek": 311,
+    "timeMonth": 224,
+    "timeYear": 183,
     "dailyMinutesDown": {
-      "2024-09-19": 16
+      "2024-09-19": 24
     }
   },
   {
