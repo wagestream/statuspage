@@ -1,7 +1,7 @@
 url: https://wagestream.com/en/
-status: up
-code: 200
-responseTime: 482
-lastUpdated: 2024-09-23T23:44:07.014Z
+status: down
+code: 429
+responseTime: 170
+lastUpdated: 2024-09-23T23:59:31.227Z
 startTime: 2022-10-13T16:16:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
