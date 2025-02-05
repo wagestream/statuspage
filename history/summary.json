@@ -37,7 +37,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/wagestream.com.ico",
     "slug": "wagestream-us-public-website",
     "status": "up",
-    "uptime": "95.83%",
+    "uptime": "95.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -128,18 +128,20 @@
     "url": "https://api.wagestream.xyz/api/v1/lb/ok",
     "icon": "https://icons.duckduckgo.com/ip3/api.wagestream.xyz.ico",
     "slug": "wagestream-uk-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 583,
-    "timeDay": 541,
-    "timeWeek": 510,
-    "timeMonth": 529,
+    "time": 582,
+    "timeDay": 460,
+    "timeWeek": 494,
+    "timeMonth": 525,
     "timeYear": 585,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-05": 0
+    }
   },
   {
     "name": "Wagestream US API",
